@@ -1,0 +1,6 @@
+{
+  "name": "EURO JAPAN IMPORTS",
+  "description": "Premium Japanese & European luxury automobile sales and international imports. Exclusive dealer of pristine Japanese classics, Nissan Figaro, BMW model series, and European performance vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
